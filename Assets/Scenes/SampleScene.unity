@@ -572,7 +572,7 @@ GameObject:
   - component: {fileID: 62487048}
   m_Layer: 5
   m_Name: G
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -803,7 +803,7 @@ GameObject:
   - component: {fileID: 127143159}
   m_Layer: 5
   m_Name: 4
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1043,7 +1043,7 @@ GameObject:
   - component: {fileID: 156110701}
   m_Layer: 5
   m_Name: E
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1235,7 +1235,7 @@ GameObject:
   - component: {fileID: 169627286}
   m_Layer: 5
   m_Name: I
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2829,7 +2829,7 @@ GameObject:
   - component: {fileID: 338172881}
   m_Layer: 5
   m_Name: 5
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3548,7 +3548,7 @@ GameObject:
   - component: {fileID: 435670599}
   m_Layer: 5
   m_Name: B
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3900,7 +3900,7 @@ GameObject:
   - component: {fileID: 462939413}
   m_Layer: 5
   m_Name: 1
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4337,7 +4337,7 @@ GameObject:
   - component: {fileID: 482291051}
   m_Layer: 5
   m_Name: 9
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4855,6 +4855,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
+  - component: {fileID: 519420030}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -4870,6 +4871,18 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
+--- !u!114 &519420030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5aeeb07241fbc24fba9c51b293837ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -8808,7 +8821,7 @@ GameObject:
   - component: {fileID: 942191737}
   m_Layer: 5
   m_Name: D
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8879,7 +8892,7 @@ GameObject:
   - component: {fileID: 943221320}
   m_Layer: 5
   m_Name: A
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10189,7 +10202,7 @@ GameObject:
   - component: {fileID: 1099307259}
   m_Layer: 5
   m_Name: 3
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12571,7 +12584,7 @@ GameObject:
   - component: {fileID: 1423295437}
   m_Layer: 5
   m_Name: 8
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13163,7 +13176,7 @@ GameObject:
   - component: {fileID: 1513694286}
   m_Layer: 5
   m_Name: 6
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15154,7 +15167,7 @@ GameObject:
   - component: {fileID: 1676629576}
   m_Layer: 5
   m_Name: F
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15590,7 +15603,7 @@ GameObject:
   - component: {fileID: 1729165727}
   m_Layer: 5
   m_Name: 7
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17311,7 +17324,7 @@ GameObject:
   - component: {fileID: 1890959777}
   m_Layer: 5
   m_Name: 2
-  m_TagString: Untagged
+  m_TagString: Number
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18864,7 +18877,7 @@ GameObject:
   - component: {fileID: 2088664452}
   m_Layer: 5
   m_Name: C
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19407,7 +19420,7 @@ GameObject:
   - component: {fileID: 2147270903}
   m_Layer: 5
   m_Name: H
-  m_TagString: Untagged
+  m_TagString: Lines
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
